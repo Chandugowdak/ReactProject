@@ -1,7 +1,7 @@
  const a = ()=>{
     return(
         <div>
-            <h1>HACKER BRO GOWDA</h1>
+           <h1>Using Of htmlFor In react</h1>
         </div>
     )
  }
